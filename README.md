@@ -11,5 +11,5 @@ All rights reserved.
 一个《Flower Dance》的Scratch 3项目。
 
 ## 许可
-本项目遵循[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)开源，未经授权禁止转载和使用。
+本项目遵循[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)开源，未经授权禁止转载和商业使用。
 作者版权所有。
