@@ -1,5 +1,5 @@
 # English en-us
-## Scratch-FlowerDance
+## FlowerDance-Scratch
 A Scratch 3 project of the music Flower Dance.
 
 ## License
@@ -7,7 +7,7 @@ This project is distributed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3
 All rights reserved.
 
 # 中文 zh-cn
-## Scratch-FlowerDance
+## FlowerDance-Scratch
 一个《Flower Dance》的Scratch 3项目。
 
 ## 许可
